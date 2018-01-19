@@ -19,7 +19,21 @@ body {
 
 .contact {
   background-color: #353535;
+}
+
+.contact p {
   color: #ffffff;
+  text-align: left;
+}
+
+.maps {
+    width: 50%;
+    margin-right: -20%;
+}
+
+.map {
+    width: 62%;
+    height: 100%;
 }
 
 .input-col {
@@ -181,4 +195,38 @@ div > .gallery {
 
 header > div > div > p {
   margin-bottom: 60px;
+}
+
+.icons {
+ margin: 3%;
+}
+
+.icon {
+  padding-top: 15px;
+}
+
+.icon a {
+  padding: 5px 5px 0 5px;
+  color: grey;
+}
+
+.fa-twitter:hover {
+  color: #4ab3f4;
+}
+
+.fa-facebook-official:hover {
+  color: #4267b2;
+}
+
+.fa-instagram:hover {
+  color: #da3073;
+}
+
+.fa-youtube-play:hover {
+  color: red;
+}
+
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
