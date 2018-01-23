@@ -100,8 +100,8 @@ p {
   height: 7%;
 }
 
-.navbar_shrink {
-
+nav > div {
+  margin: 0 auto;
 }
 
 .navLink {
